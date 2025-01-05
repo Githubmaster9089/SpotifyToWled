@@ -25,7 +25,7 @@ To use this project, you'll need:
 ## Installation
 
 1. Clone the repository or download the `wled.py` file.
-2. Install the required Python libraries using `pip install -r requirements.txt`. (Create this file if it doesn't exist, listing all the libraries mentioned above.)
+2. Install the required Python libraries using `pip install -r requirements.txt`. 
 3. Run the script:
    ```bash
    python wled.py
